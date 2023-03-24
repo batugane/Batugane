@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T16:30:54.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="ShIBhjCwFEj3v9uqyyMP" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T16:31:05.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="xBlRSyWTTRHfBiriDoRb" version="21.1.1" type="github">
   <diagram name="Sayfa -1" id="VlHYEeJTfce4ZR7y-VUg">
-    <mxGraphModel dx="1605" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="-180" y="-190" width="1240.5" height="1570" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-1" value="&lt;div&gt;CUSTOMER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="-50" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-3" value="&lt;div&gt;SHELF EMPLOYEE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="860" width="30" height="60" as="geometry" />
+          <mxGeometry x="-50" y="860" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-4" value="&lt;div&gt;DELIVERY EMPLOYEE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="420" width="30" height="60" as="geometry" />
