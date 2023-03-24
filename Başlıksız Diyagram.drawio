@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T15:22:29.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="2wUE7I1iSCBCllld4g7g" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T15:25:58.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="gOt_0cIeLgD8_aGGsVTb" version="21.1.1" type="github">
   <diagram name="Sayfa -1" id="VlHYEeJTfce4ZR7y-VUg">
-    <mxGraphModel dx="2927" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="2259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-100" y="-120" width="1160.5" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-1" value="&lt;div&gt;CUSTOMER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-3" value="&lt;div&gt;SHELF EMPLOYEE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="700" width="30" height="60" as="geometry" />
