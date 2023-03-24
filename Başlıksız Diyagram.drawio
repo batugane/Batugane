@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T16:38:48.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="88i3exBSy6PCFaYMQJU_" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T16:38:54.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="iGrxt-WDdYAsJdE9ptxW" version="21.1.1" type="github">
   <diagram name="Sayfa -1" id="VlHYEeJTfce4ZR7y-VUg">
     <mxGraphModel dx="2062" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
           <mxGeometry x="-100" y="640" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxGiILUZpj_sUYO8Ghyd-53" value="Approve request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="590" width="110" height="70" as="geometry" />
+          <mxGeometry x="40" y="610" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vxGiILUZpj_sUYO8Ghyd-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vxGiILUZpj_sUYO8Ghyd-52" target="vxGiILUZpj_sUYO8Ghyd-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
