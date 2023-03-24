@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T16:47:43.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="z0wxt9mLzwk0cbg8T3TV" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T17:01:27.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="kZEbHaiJ-VToUmpix279" version="21.1.1" type="github">
   <diagram name="Sayfa -1" id="VlHYEeJTfce4ZR7y-VUg">
-    <mxGraphModel dx="2442" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="2622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,7 +280,7 @@
             <mxPoint x="749" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vxGiILUZpj_sUYO8Ghyd-38" value="Request time off" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vxGiILUZpj_sUYO8Ghyd-38" value="Request time-off" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vxGiILUZpj_sUYO8Ghyd-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="vxGiILUZpj_sUYO8Ghyd-38" source="P8AKB918pg-EpybjRqPn-4">
@@ -307,7 +307,7 @@
         <mxCell id="vxGiILUZpj_sUYO8Ghyd-52" value="&lt;div&gt;ADMINISTIRATIVE EMPLOYEE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-100" y="640" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vxGiILUZpj_sUYO8Ghyd-53" value="Approve request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vxGiILUZpj_sUYO8Ghyd-53" value="Approve time-off request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="610" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vxGiILUZpj_sUYO8Ghyd-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vxGiILUZpj_sUYO8Ghyd-52" target="vxGiILUZpj_sUYO8Ghyd-53">
@@ -371,7 +371,7 @@
             <mxPoint x="639" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vxGiILUZpj_sUYO8Ghyd-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vxGiILUZpj_sUYO8Ghyd-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-150" width="870" height="1260" as="geometry" />
         </mxCell>
       </root>
