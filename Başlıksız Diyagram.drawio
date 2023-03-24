@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T15:08:37.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="T6V46RyiczbMsI-9mNck" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T15:08:47.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="sdRGC4prmyasSl_wOctm" version="21.1.0" type="github">
   <diagram name="Sayfa -1" id="VlHYEeJTfce4ZR7y-VUg">
     <mxGraphModel dx="1702" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,8 +156,8 @@
             <mxPoint x="194" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8AKB918pg-EpybjRqPn-71" value="remove product  to cart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="600" width="100" height="60" as="geometry" />
+        <mxCell id="P8AKB918pg-EpybjRqPn-71" value="remove product from cart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8AKB918pg-EpybjRqPn-72" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" edge="1" parent="1" source="P8AKB918pg-EpybjRqPn-71" target="P8AKB918pg-EpybjRqPn-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
