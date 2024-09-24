@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="cp2.gif" alt="animated" />
+  <img src="cp3.gif" alt="animated" />
 </p>
