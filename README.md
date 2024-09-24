@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="cp3.gif" alt="animated" />
+  <a href="https://duras.dev/">
+    <img src="cp3.gif" alt="animated" />
+  </a>
 </p>
